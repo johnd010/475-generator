@@ -35,7 +35,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Using 475-G enerator is as simple as filling in the fields for as many rows as you'd like for the various columns in the student-info.csv file and enter running the python script. Voila, you will then have all of your 475s created for each of your students ready for signature. 
+Using 475-Generator is as simple as filling in the fields for as many rows as you'd like for the various columns in the student-info.csv file and enter running the python script. Voila, you will then have all of your 475s created for each of your students ready for signature. 
 
 ### Prerequisites
 
