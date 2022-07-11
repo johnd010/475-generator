@@ -62,6 +62,8 @@ Using 475-Generator is as simple as filling in the fields for as many rows as yo
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+<p align="center"><img src="/usage.gif" width="50%" height="50%"/></p>
+
 1. Clone the repo 
    ```sh
    git clone https://github.com/johnd010/475-generator.git  
@@ -73,8 +75,6 @@ Using 475-Generator is as simple as filling in the fields for as many rows as yo
    ```
 4. ???
 5. Profit. Sign your 475s.
-
-<p align="center"><img src="/usage.gif" width="50%" height="50%"/></p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
