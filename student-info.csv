@@ -1,0 +1,8 @@
+name,rank,dafsc,org,from_date,thru_date,location,course_title,afsc,dg_criteria,accomplishments,qualities,duty_title,ssn,eval_ssn,sig_block,weeks,check1,check2,check3,check4,check5,check6,other_comments,sign_date
+"TEST, TEST T",Capt,3D131,"338th Training Squadron (AETC)
+Keesler AFB, MS 39534",01 Jan 2022,01 Dec 2022,"338th Training Squadron
+Keesler AFB, MS 39534",Course Example Title,3D131,,"- Bullet 1
+- Bullet 2
+- Bullet 3","- Bullet 1","Flight Commander",123-45-6789,1234,"TEST T. TEST, Capt, USAF
+338th Training Squadron (AETC)
+Keesler AFB, MS 39534",99,Off,Yes,Off,Off,Off,Off,,
